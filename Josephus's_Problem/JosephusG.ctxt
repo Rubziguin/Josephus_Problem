@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=JosephusG
+comment0.text=\r\n\ Esta\ classe\ JosephusG\ representa\ a\ l\u00F3gica\ base\ para\ o\ problema\ de\ Josephus.\r\n\ Ela\ mant\u00E9m\ um\ ambiente\ bidimensional\ de\ pessoas,\ gerencia\ o\ status\ das\ pessoas\r\n\ (vivas\ ou\ mortas)\ e\ inicializa\ o\ ambiente.\r\n
+comment1.params=linhas\ colunas
+comment1.target=JosephusG(int,\ int)
+comment1.text=\r\n\ JosephusG\ Construtor\r\n\r\n\ @param\ linhas\ Quantidade\ de\ linhas\ da\ matriz\r\n\ @param\ colunas\ Quantidade\ de\ colunas\ da\ matriz\r\n
+comment2.params=
+comment2.target=Pessoa[][]\ getAmbiente()
+comment2.text=\r\n\ M\u00E9todo\ getAmbiente\r\n\r\n\ @return\ matriz\ do\ tipo\ 'Pessoa'\r\n
+comment3.params=status\ i\ j
+comment3.target=void\ setStatusAmbiente(boolean,\ int,\ int)
+comment3.text=\r\n\ M\u00E9todo\ setStatusAmbiente\r\n\ Define\ o\ status\ de\ uma\ pessoa\ no\ ambiente.\r\n\ @param\ status\ boolean\ como\ novo\ valor\ do\ campo\ do\ objeto\r\n\ @param\ i\ inteiro\ indicando\ a\ linha\ da\ matriz\r\n\ @param\ j\ inteiro\ indicando\ a\ coluna\ da\ matriz\r\n
+comment4.params=ambiente
+comment4.target=void\ setAmbiente(Pessoa[][])
+comment4.text=\r\n\ M\u00E9todo\ setAmbiente\r\n\ Define\ o\ ambiente\ de\ pessoas.\r\n\ @param\ ambiente\ atualiza\ a\ matriz\r\n
+comment5.params=
+comment5.target=void\ iniciarAmbiente()
+comment5.text=\r\n\ M\u00E9todo\ iniciarAmbiente\r\n\ Inicializa\ o\ ambiente\ com\ objetos\ do\ tipo\ 'Pessoa'.\r\n
+comment6.params=linha\ coluna
+comment6.target=boolean\ devolverStatus(int,\ int)
+comment6.text=\r\n\ M\u00E9todo\ devolverStatus\r\n\r\n\ @param\ linha\ inteiro\ indicando\ a\ linha\ da\ matriz\r\n\ @param\ coluna\ inteiro\ indicando\ a\ coluna\ da\ matriz\r\n\ @return\ boolean\ do\ campo\ 'condicao'\ de\ um\ objeto\ da\ classe\ 'Pessoa'\r\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AplicacaoGraphic
+comment0.text=\r\n\ A\ classe\ AplicacaoGraphic\ \u00E9\ respons\u00E1vel\ por\ iniciar\ a\ aplica\u00E7\u00E3o\ gr\u00E1fica\r\n\ que\ demonstra\ o\ problema\ de\ Josephus.\r\n\ \r\n\ Nesta\ implementa\u00E7\u00E3o,\ a\ aplica\u00E7\u00E3o\ cria\ uma\ inst\u00E2ncia\ de\ JosephusGraphic\ com\ dois\ par\u00E2metros\:\r\n\ o\ n\u00FAmero\ de\ pessoas\ no\ c\u00EDrculo\ e\ o\ passo\ de\ elimina\u00E7\u00E3o.\ Em\ seguida,\ chama\ o\ m\u00E9todo\ para\r\n\ mostrar\ a\ interface\ gr\u00E1fica\ do\ usu\u00E1rio\ (GUI).\r\n\ \r\n\ @autores\ \:\ Daniel\ Teles\ de\ Oliveira\r\n\ \ \ \ \ \ \ \ \ \ \ \ Joao\ Victor\ Torres\ Soares\r\n\ \ \ \ \ \ \ \ \ \ \ \ Rubens\ Rodrigues\ Maranesi\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Este\ m\u00E9todo\ cria\ uma\ matriz\ 10\ por\ 10,\ e\ ent\u00E3o\ chama\ o\ m\u00E9todo\ mostraAmbienteGUI()\ para\ exibir\ a\ interface\ gr\u00E1fica\r\n
+numComments=2

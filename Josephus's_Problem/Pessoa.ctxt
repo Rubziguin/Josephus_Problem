@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Pessoa\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=status\ indice
+comment1.target=Pessoa(boolean,\ int)
+comment1.text=\r\n\ Pessoa\ Construtor\r\n\r\n\ @param\ status\ boolean\ para\ representar\ o\ estado\ do\ objeto\r\n\ @param\ indice\ inteiro\ como\ indentificador\ do\ objeto\r\n
+comment2.params=status
+comment2.target=void\ setStatus(boolean)
+comment2.text=\r\n\ M\u00E9todo\ setStatus\r\n\r\n\ @param\ status\ boolean\ que\ modificara\ o\ campo\ 'condicao'\r\n
+comment3.params=indice
+comment3.target=void\ setId(int)
+comment3.text=\r\n\ M\u00E9todo\ setId\r\n\r\n\ @param\ indice\ inteiro\ que\ modificara\ o\ campo\ 'id'\r\n
+comment4.params=
+comment4.target=int\ getId()
+comment4.text=\r\n\ M\u00E9todo\ getId\r\n\r\n\ @return\ inteiro\ do\ campo\ 'id'\ do\ objeto\ \r\n
+comment5.params=
+comment5.target=boolean\ getStatus()
+comment5.text=\r\n\ M\u00E9todo\ getStatus\r\n\r\n\ @return\ boolean\ do\ campo\ 'condicao'\ do\ objeto\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\r\n\r\n\ @return\ Uma\ representacao\ em\ String\ da\ pessoa\r\n
+numComments=7
